@@ -1,0 +1,18 @@
+MARKETING_NAME;PRF:SCREENSIZE;PRF:OSNAME;PRF:OSVENDOR;PRF:OSVERSION;WIFI_SUPPORT;NFC_SUPPORT;Brand;Model;Tac Code;User Agent;PRF:SCREENDENSITY
+;360x640;Symbian;Nokia;5.3;true;true;I-MOBILE;600;;i-mobile600;1234.56
+;360x640;Symbian OS;;S3;true;true;I-MOBILE;603;;i-mobile603;
+;240x320;;;;false;true;NOKIA;6131 NFC;;Nokia6131NFC;
+Classic;240x320;ISA;Nokia;1.0;false;true;NOKIA;6212;123456;Nokia6212 classic/2.0 (05.16) Profile/MIDP-2.1 Configuration/CLDC-1.1;
+;360x640;Symbian;Nokia;5.3;true;true;NOKIA;701;;"Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia701/111.010.1006; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.1.12 Mobile Safari/533.4 3gpp-gba";
+Barcley;360x640;Symbian;Nokia;5.2;true;true;NOKIA;C7-00;;"Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC7-00/011.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.5 3gpp-gba";
+;480x854;Linux;Nokia;10.2011.25;true;true;NOKIA;N9;;"Mozilla/5.0 (MeeGo; N9) AppleWebKit/533.3 (KHTML, like Gecko) NokiaBrowser/8.5 Mobile Safari/533.3";
+;320x400;MeeGo;;1.2;true;true;NOKIA;N950;;"Mozilla/5.0 (MeeGo; NokiaN950-00/00) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13";
+Dakota, Bold;;RIM;;OS 7;;true;RIM;Blackberry 9900;;"Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; fr) AppleWebkit/534.11+ (KHTML, like Gecko) Version/7.0.0.100 Mobile Safari/534.11+";
+Dakota;480x640;RIM OS;;7.0;false;true;RIM;BlackBerry Bold Touch 9900;;"Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; en-US) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.103 Mobile Safari/534.11+";
+;640x480;RIM OS;RIM;7.0;false;true;RIM;Blackberry Bold Touch 9930;;"Mozilla/5.0 (BlackBerry; U; BlackBerry 9930; en-US) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.115 Mobile Safari/534.11+";
+Cosy Phone;240x320;;;;;true;SAGEM;Cosy Phone;;SGW-COSY2G/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1;
+;720x1280;Android;;4.0;true;true;SAMSUNG;Galaxy Nexus;;"Mozilla/5.0 (Linux; U; Android 4.0; es-es; Galaxy Nexus Build/IFL10C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+Samsung Nexus S;480x800;Android;;4.0;true;true;SAMSUNG;GT-I902X;;"Mozilla/5.0 (Linux; U; Android 4.0.3; en-gb; Nexus S Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+;240x400;;;;false;true;SAMSUNG;GT-S5230N;35713603;SAMSUNG-GT-S5230N/S5230NBGJD3 SHP/VPP/R5 Jasmine/0.8 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1;
+Nexus S;480x800;ANDROID;;GINGERBREAD;true;true;SAMSUNG;Nexus S;;"Mozilla/5.0 (Linux; U; Android 2.3; en-us; Nexus S Build/GRH41B) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+;360x640;Android;;2.2;true;true;VK MOBILE;700;35640602;Mozilla/5.0;

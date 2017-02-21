@@ -1,2 +1,0 @@
-http://www.textfiles.com/etext/FICTION/
--Xms<memory> -Xmx<memory>. Use M or G
